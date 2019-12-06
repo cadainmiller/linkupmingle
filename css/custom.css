@@ -1,0 +1,51 @@
+.padding_top {
+    padding-top: 10%;
+  }
+.addjobs_top {
+  padding-top: 3%;
+}
+.signup_padding_top {
+    padding-top: 0%;
+  }
+.padding_bottom {
+    padding-bottom: 3%;
+}
+
+.logo_size{
+  width: 30%;
+  height: 30%;
+}
+
+.signupbtn_size{
+  width: 30%;
+  height: 30%;
+}
+.card_size{
+  width: 500px;
+}
+
+
+.about_logo_size {
+  width: 550px;
+}
+
+
+
+.radiocolor
+    [type="radio"]:checked + span:after,
+    [type="radio"].radiocolor:checked + span:before,
+    [type="radio"].radiocolor:checked + span:after {
+    border: 2px solid #7c7979; }
+
+    [type="radio"]:checked + span:after,
+    [type="radio"].radiocolor:checked + span:after {
+    background-color: #5e35b1 ; }
+
+    .cardimg {
+        width: 50%;
+        height: 50%;
+    }
+    #map {
+        height: 400px;
+        width: 100%;
+      }
