@@ -1,6 +1,7 @@
 # linkUpMingle
 This is a website was created to link potential employees with employer in their skill area.
-Project Include 
+
+Project Include.
 Homepage - Completed.
 About Us - Completed.
 Services - Completed.
